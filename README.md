@@ -1,6 +1,8 @@
 # Alarm System - Using an infrared motion sensor to detect intruders
 ## Complexity
-This DIY alarm system can detect intruders using an infrared motion sensor. The best-practise is to face the sides of the dome (of the motion sensor) towards your doors or windows. If a intruder approaches the sensor perpendicular, the sensor will be less sensitive. To improve the design, multiple sensors should be used and a WiFi Shield in order to sent direct http requsts to the PushBullet API.
+This DIY alarm system can detect intruders using an infrared motion sensor. The best-practise is to face the sides of the dome (of the motion sensor) towards your doors or windows. If a intruder approaches the sensor perpendicular, the sensor will be less sensitive. To improve the design, multiple sensors should be used and a WiFi Shield in order to sent direct http requsts to the PushBullet API. 
+
+For a demostration click [here](https://studio.youtube.com/video/Nn-bcm7K9IA/edit).
 
 Some challenges were:
 * Removing noise from the Buzzer, solved by adding a rectifier diode.
