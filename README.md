@@ -26,4 +26,4 @@ The device Port (COM4) may need to be changed according to the information displ
 
 ## Output
 
-![alt text](https://github.com/DenisPals/alarmSystem/blob/main/phoneScreenshot.jpeg?raw=true)
+![alt text](https://github.com/DenisPals/alarmSystem/blob/main/notificationImg.jpeg?raw=true)
