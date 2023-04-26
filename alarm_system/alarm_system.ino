@@ -1,7 +1,7 @@
 int buzzerPin = 2; // the number of the buzzer pin
-int ledPin = 11; // the number of the led pin  
-int sensorPin = 8;
-int buzzerVoltage = 12;
+int buzzerVoltage = 11;
+int ledPin = 10; // the number of the led pin  
+int sensorPin = 7;
 float sinVal; // Define a variable to save sine value
 int toneVal; // Define a variable to save sound frequency
 
