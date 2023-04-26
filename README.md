@@ -19,7 +19,7 @@ contains the code that is running on the Arduino Uno microcontroller. The passiv
 contains the python code to receive the Serial data from the control board and sent request to PushBullet API. After 5 notifications the program will stop.
 
 ## How to run
-![alt text](https://github.com/DenisPals/alarmSystem/blob/main/setupImg.jpeg?raw=true)
+![alt text](https://github.com/DenisPals/alarmSystem/blob/main/schematics.jpeg?raw=true)
 Build the circuit according to the schematics and and connect the control board to the computer via USB. The motion sensor will take one minute to be set up, then run
 > python push_notification.py
 
