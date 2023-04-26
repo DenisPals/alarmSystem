@@ -20,7 +20,7 @@ contains the python code to receive the Serial data from the control board and s
 
 ## How to run
 ![alt text](https://github.com/DenisPals/alarmSystem/blob/main/setupImg.jpeg?raw=true)
-Build the circuit and and connect the control board to the computer via USB. The motion sensor will take one minute to be set up, then run
+Build the circuit according to the schematics and and connect the control board to the computer via USB. The motion sensor will take one minute to be set up, then run
 > python push_notification.py
 
 After moving, you should receive push notifications, warning you that the motion sensor has been triggered.
