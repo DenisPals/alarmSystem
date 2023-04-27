@@ -12,7 +12,7 @@ Some challenges were:
 
 ## Files
 **alarm_system.ino** &rarr; 
-contains the code that is running on the Arduino Uno microcontroller. The passive Buzzer receives a sin wave sound frequency using Pulse Width Modulation.
+contains the code that is running on the Arduino Uno microcontroller. The passive Buzzer receives a sine wave sound frequency using Pulse Width Modulation.
 
 **push_notification.py** &rarr;
 contains the python code to receive the Serial data from the control board and sent request to PushBullet API. After 5 notifications the program will stop.
