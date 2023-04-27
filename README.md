@@ -9,7 +9,6 @@ Some challenges were:
 * Receiving Serial data using Python.
 * Setting up the PushBullet API. 
 
-This is a course related project and part of the problemset in Harvards CS50x week 4.
 
 ## Files
 **alarm_system.ino** &rarr; 
